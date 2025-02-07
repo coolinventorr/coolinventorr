@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/coolinventor/coolinventor/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/coolinventor/coolinventorr/output/snake.svg" alt="Snake animation" />
 
 ###
